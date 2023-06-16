@@ -1,0 +1,64 @@
+{
+  "buttons": {
+    "ok": "تائید",
+    "cancel": "انصراف"
+  },
+  "actionMessages": {
+    "added": "مورد فوق با موفقیت اضافه شد",
+    "edited": "مورد فوق با موفقیت ویرایش شد",
+    "delete": "آیا از حذف مطمئن هستید؟",
+    "deleted": "مورد فوق با موفقیت حذف شد"
+  },
+  "tableNames": {
+    "58": "بانک",
+    "63": "شعب بانکی",
+    "65": "شعب",
+    "117": "کالا"
+  },
+  "labelTables": {
+    "58": {
+      "bankCode": "کد",
+      "bankName": "نام",
+      "bankWebSite": "وب سایت",
+      "bankDesc": "توضیحات"
+    },
+    "63": {
+      "bbhcode": "کد",
+      "bankBranchName": "نام",
+      "bankName": "نام بانک",
+      "branchName": "نام شعب",
+      "bankBranchTypeName": "نوع",
+      "bankBrchManager": "مدیر عامل",
+      "bankBrchAssistant": "معاون",
+      "bankBrchAddress": "آدرس",
+      "bankBrchDesc": "توضیحات"
+    },
+    "65": {
+      "code": "کد",
+      "bankBranchName": "نام",
+      "branchTypeName": "نوع",
+      "active": "فعال"
+    },
+    "117": {
+      "goodsCode": "کد",
+      "goodsName": "نام",
+      "goodsGroupName": "گروه",
+      "subGroupName": "زیر گروه",
+      "unitName": "واحد",
+      "packingName": "بسته بندی",
+      "goodStateName": "وضعیت",
+      "barCode": "بارکد",
+      "isCanReturn": "قابل برگشت",
+      "dev1_Name": "طبقه اول",
+      "dev2_Name": "طبقه دوم",
+      "dev3_Name": "طبقه سوم",
+      "scale": "وزن",
+      "mass": "حجم",
+      "isTwoUnit": "دو واحدی",
+      "goodActive": "فعال",
+      "goodTypeName": "نوع",
+      "serial": "سریال",
+      "hasBatch": "بچ"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "buttons": {
+    "ok": "Ok",
+    "cancel": "Cancel"
+  },
+  "actionMessages": {
+    "added": "The above item has been successfully added",
+    "edited": "The above item has been edited successfully",
+    "delete": "Are you sure to delete?",
+    "deleted": "The above item was successfully deleted"
+  },
+  "tableNames": {
+    "58": "Bank",
+    "63": "Bank Branch",
+    "65": "Branch",
+    "117": "products"
+  },
+  "labelTables": {
+    "58": {
+      "bankCode": "Code",
+      "bankName": "Name",
+      "bankWebSite": "Website",
+      "bankDesc": "Description"
+    },
+    "63": {
+      "bbhcode": "Code",
+      "bankBranchName": "Name",
+      "bankName": "Bank Name",
+      "branchName": "Branch Name",
+      "bankBranchTypeName": "Type",
+      "bankBrchManager": "Manager",
+      "bankBrchAssistant": "Assistant",
+      "bankBrchAddress": "Address",
+      "bankBrchDesc": "Description"
+    },
+    "65": {
+      "code": "Code",
+      "bankBranchName": "Name",
+      "branchTypeName": "Type",
+      "active": "Active"
+    },
+    "117": {
+      "goodsCode": "Code",
+      "goodsName": "Name",
+      "goodsGroupName": "Group",
+      "subGroupName": "Sub Group",
+      "unitName": "Unit",
+      "packingName": "Packing Name",
+      "goodStateName": "State",
+      "barCode": "Barcode",
+      "isCanReturn": "Is can Return",
+      "dev1_Name": "First floor",
+      "dev2_Name": "Second floor",
+      "dev3_Name": "Third floor",
+      "scale": "Scale",
+      "mass": "Mass",
+      "isTwoUnit": "Is two unit",
+      "goodActive": "Active",
+      "goodTypeName": "Type",
+      "serial": "Serial",
+      "hasBatch": "Batch"
+    }
+  }
+}

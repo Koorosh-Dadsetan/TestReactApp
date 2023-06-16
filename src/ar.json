@@ -1,0 +1,64 @@
+{
+    "buttons": {
+      "ok": "تأكيد",
+      "cancel": "انسحب"
+    },
+    "actionMessages": {
+      "added": "تم إضافة العنصر أعلاه بنجاح",
+      "edited": "تم تحرير العنصر أعلاه بنجاح",
+      "delete": "هل انت متأكد من الحذف؟",
+      "deleted": "تم حذف العنصر أعلاه بنجاح"
+    },
+    "tableNames": {
+      "58": "بنك",
+      "63": "فروع البنك",
+      "65": "الفروع",
+      "117": "سلعة"
+    },
+    "labelTables": {
+      "58": {
+        "bankCode": "شفرة",
+        "bankName": "اسم",
+        "bankWebSite": "موقع إلكتروني",
+        "bankDesc": "وصف"
+      },
+      "63": {
+        "bbhcode": "شفرة",
+        "bankBranchName": "اسم",
+        "bankName": "اسم البنك",
+        "branchName": "اسم الفروع",
+        "bankBranchTypeName": "يكتب",
+        "bankBrchManager": "المدير التنفيذي",
+        "bankBrchAssistant": "النائب",
+        "bankBrchAddress": "عنوان",
+        "bankBrchDesc": "وصف"
+      },
+      "65": {
+        "code": "شفرة",
+        "bankBranchName": "اسم",
+        "branchTypeName": "يكتب",
+        "active": "نشيط"
+      },
+      "117": {
+        "goodsCode": "شفرة",
+        "goodsName": "اسم",
+        "goodsGroupName": "مجموعة",
+        "subGroupName": "مجموعة فرعية",
+        "unitName": "الوحدة",
+        "packingName": "التعبئة",
+        "goodStateName": "حالة",
+        "barCode": "الباركود",
+        "isCanReturn": "قابل للإرجاع",
+        "dev1_Name": "الطابق الاول",
+        "dev2_Name": "الطابق الثاني",
+        "dev3_Name": "الطابق الثالث",
+        "scale": "وزن",
+        "mass": "مقدار",
+        "isTwoUnit": "وحدتين",
+        "goodActive": "نشيط",
+        "goodTypeName": "يكتب",
+        "serial": "مسلسل",
+        "hasBatch": "بچ"
+      }
+    }
+  }
